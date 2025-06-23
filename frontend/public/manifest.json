@@ -1,0 +1,25 @@
+{
+  "name": "VoiceNews - ニュース音声アプリ",
+  "short_name": "VoiceNews",
+  "description": "ニュース記事を音声で聞けるPWAアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["news", "productivity"]
+}
