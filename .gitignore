@@ -35,6 +35,9 @@ Thumbs.db
 # Logs
 *.log
 
+# Test files (keep local only)
+test_*.py
+
 # Next.js
 frontend/.next/
 frontend/out/
